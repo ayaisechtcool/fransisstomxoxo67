@@ -1,0 +1,15 @@
+fransisstomxoxo67 — startpakket
+
+1. Pak de ZIP uit.
+2. Open index.html in Chrome, Safari, Edge of Firefox.
+3. Wachtwoord: ayaisdegoat
+
+Inbegrepen:
+- Nederlandse interface, tigerprint-accenten en glitter feedback
+- Quiz met punten, scores en NOOB / PRO / HACKER-levels
+- Woordenschat per thema en Franse slang met context/voorbeeld
+- Eigen woorden, notities, profielfoto en achtergrond uploaden
+- De oorspronkelijke PDF-cursus
+
+Belangrijk:
+Dit is een volledig lokaal prototype zonder server. De voortgang en instellingen worden in de browser opgeslagen. De wachtwoordcontrole zit in de HTML/JavaScript en is dus GEEN echte beveiliging: iemand die de broncode bekijkt kan het wachtwoord vinden. Gebruik dit wachtwoord niet voor gevoelige informatie. Voor een publiek online geplaatste website is server-side login nodig. De bestandskiezer toont geselecteerde cursusbestanden, maar uploadt ze niet naar een server en bewaart hun inhoud niet permanent.
